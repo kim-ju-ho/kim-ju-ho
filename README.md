@@ -7,16 +7,17 @@ I'm kim-ju-ho, a growing developer. 🌱 <br>
 </p>
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-JavaScript-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=black"/>
   <br>
-  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-brightgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?style=flat&logo=SpringBoot&logoColor=green"/>&nbsp
+  <img src="https://img.shields.io/badge/-JPA-brightgreen?style=flat&logo=JPA&logoColor=green"/>&nbsp
 
   <br>
-  <img src="https://img.shields.io/badge/-MySQL-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-navy?style=flat&logo=MySQL&logoColor=green"/>&nbsp
+  <img src="https://img.shields.io/badge/-AWS-black?style=flat&logo=aws&logoColor=green"/>&nbsp
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=green"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>
