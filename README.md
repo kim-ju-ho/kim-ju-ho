@@ -22,9 +22,7 @@ I'm kim-ju-ho, a growing developer. 🌱 <br>
 
 <h3 align="center">•••</h3>
 
-<!-- <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>&nbsp
- -->
+
   <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"/></a>
   
 </p>
