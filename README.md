@@ -23,7 +23,7 @@ I'm kim-ju-ho, a growing developer. 🌱 <br>
 <h3 align="center">•••</h3>
 
 
-  <a href=""><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:"/></a>
+
   
 </p>
 
